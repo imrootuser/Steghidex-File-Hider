@@ -61,5 +61,5 @@ This tool is for **educational and authorized security testing purposes only**. 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-**Author:** imrootuser  
-**GitHub:** [imrootuser](https://github.com/imrootuser)
+**Author:** Root User 
+**GitHub:** [Root User](https://github.com/imrootuser)
